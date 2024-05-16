@@ -9,7 +9,7 @@ jobs:
       - name: list files
         run: ls -l
       - name: Installing Java on ruunner
-        uses: actions/setup-java@4.2.1
+        uses: actions/setup-java@v4.2.1
         with: 
           java-version: '11'
           distribution: 'temurin'

@@ -1,4 +1,4 @@
-name: cicd
+name: cicd2
 on: push
 jobs:
   build:
